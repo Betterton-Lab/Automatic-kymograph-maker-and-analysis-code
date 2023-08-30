@@ -16,4 +16,4 @@ Four softwares we wrote for our analysis are combined here, with their function 
 
 ## How to use each software? 
 
-Please review readme.md in each software's subdirectory. 
+Please review readme in each software's subdirectory. 
