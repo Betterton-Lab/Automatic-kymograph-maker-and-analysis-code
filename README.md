@@ -1,4 +1,4 @@
-# Documentation for Automatic Kymograph Maker and Analysis
+# Automatic Kymograph Maker and Analysis Documentation
 
 Our codes run with MATLAB 2020 or later version. 
 
