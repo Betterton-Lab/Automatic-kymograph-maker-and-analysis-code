@@ -1,5 +1,4 @@
-# Automatic-kymograph-maker-and-analysis-code
-
+# Documentation for Automatic Kymograph Maker and Analysis
 
 Four softwares we wrote for our analysis are combined here, with their function briefly summarized below: 
 
