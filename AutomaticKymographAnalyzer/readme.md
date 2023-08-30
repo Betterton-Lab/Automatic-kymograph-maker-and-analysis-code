@@ -8,7 +8,7 @@ To run this software, you first need outputs from AutomaticKymographMaker. Speci
 Open AutoExtractStripeMain.m in MATLAB. In AutoExtractStripeMain.m, users need to modify data_path and data_list to their own input bkg_subtracted_kymograph.mat and the pos_cut7_pk.mat file path location.  
 For example, as the code's default: 
 
----  
+```
 mutant_type = "cut7_FL\pkl1_klp2_WT";  
 data_path = "C:\Research\Softwares\Kymographs Maker\BatchKymographMaker\Saved Data\" + mutant_type + "\";  
 data_list = ["001_A","001_B","001_C","001_D","001_E",...  
@@ -16,11 +16,14 @@ data_list = ["001_A","001_B","001_C","001_D","001_E",...
              "003_A","003_B","003_C","003_D",...  
              "004_A","004_B","004_C","004_D","004_E","004_F",...  
              "005_A","005_B","005_C","005_D","005_E","005_F","005_G","005_H","005_I","005_J"];  
----  
+```
 
 The above code is telling the software to look for files for analysis in   
+
+```
 C:\Research\Softwares\Kymographs Maker\BatchKymographMaker\Saved Data\cut7_FL\pkl1_klp2_WT\001_A\  
 C:\Research\Softwares\Kymographs Maker\BatchKymographMaker\Saved Data\cut7_FL\pkl1_klp2_WT\001_B\  
+```
 etc. 
 
 If you have download the kymograph folder from Peta??Library, you can run this code directly on all of our kymographs. 
