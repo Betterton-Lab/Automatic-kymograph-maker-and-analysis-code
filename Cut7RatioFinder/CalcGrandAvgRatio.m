@@ -14,8 +14,8 @@ for idx = 1:length(mutant_type)
     load(file_path(idx));
 
     % Length range, in microns:
-    lo = 4;
-    hi = 8;
+    lo = 3;
+    hi = 7;
     
     % Find the row indexs from GRAND matrix s.t. the spindle length are in range:
     row_idx_in_range = find ( GRAND_length_v_ratio(:,1)>=lo & GRAND_length_v_ratio(:,1)<=hi );
