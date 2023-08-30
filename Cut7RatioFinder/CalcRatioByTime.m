@@ -4,12 +4,14 @@
 cd 'C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\';
 
 %% Cut7 Truncation Mutants - Kinesin 14 WT
-% mutant_type = "cut7_FL\pkl1_klp2_WT";
-% data_path = "C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\saved data\" + mutant_type + "\";
-% data_list = ["001_A","001_D","001_E","002_A","003_A","003_B","003_D","004_D"...
-%              "005_A","005_B","005_E","005_F","005_G","005_J"];
-% frame_list = [86, 179, 155, 51, 126, 40, 66, 30, 36, 69, 42, 117, 129, 148];
-% frame_time = [9.1432, 9.1432, 9.1432, 9.0831, 9.0394, 9.0394, 9.0394, 9.1104, 8.598, 8.598, 8.598, 8.598, 8.598, 8.598];
+mutant_type = "cut7_FL\pkl1_klp2_WT";
+data_path = "C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\saved data\" + mutant_type + "\";
+data_list = ["001_A","001_D","001_E","002_A","003_A","003_B","003_D","004_D"...
+             "005_A","005_B","005_E","005_F","005_G","005_J"];
+% Anaphase onset frames: 
+frame_list = [86, 179, 155, 51, 126, 40, 66, 30, 36, 69, 42, 117, 129, 148];
+% Convert frame time to real time in seconds: 
+frame_time = [9.1432, 9.1432, 9.1432, 9.0831, 9.0394, 9.0394, 9.0394, 9.1104, 8.598, 8.598, 8.598, 8.598, 8.598, 8.598];
 
 % mutant_type = "cut7_1032_TD\pkl1_klp2_WT";
 % data_path = "C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\saved data\" + mutant_type + "\";
@@ -60,11 +62,11 @@ cd 'C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\';
 % frame_list = [25, 48, 61, 25, 85, 98, 7, 10];
 % frame_time = [11.2504, 11.2504, 11.1569, 11.1569, 11.2145, 11.2145, 10.7417, 10.7417];
 
-mutant_type = "cut7_phospho\1030TD\SS";
-data_path = "C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\saved data\" + mutant_type + "\";
-data_list = ["001_A","001_F","002_A","002_D","002_E","002_F","002_G","003_C"];
-frame_list = [10, 21, 43, 16, 131, 53, 47, 20];
-frame_time = [11.0647, 11.0647, 11.2477, 11.2477, 11.2477, 11.2477, 11.2477, 10.8971];
+% mutant_type = "cut7_phospho\1030TD\SS";
+% data_path = "C:\Research\Softwares\Kymographs Maker\Cut7RatioFinder\saved data\" + mutant_type + "\";
+% data_list = ["001_A","001_F","002_A","002_D","002_E","002_F","002_G","003_C"];
+% frame_list = [10, 21, 43, 16, 131, 53, 47, 20];
+% frame_time = [11.0647, 11.0647, 11.2477, 11.2477, 11.2477, 11.2477, 11.2477, 10.8971];
 
 
 % line colors
