@@ -10,7 +10,7 @@ Four softwares we wrote for our analysis are combined here, with their function 
 
 - AutomaticKymographAnalyzer:   analyzing collection of kymographs, plot their average intensity profile at different spindle length
 
-- Cut7RatioFinder:   analyzing the cut7 midzone-to-pole ratio vs. time for each cell, using segmented_cell.mat  
+- Cut7RatioFinder:   analyzing the cut7 midzone-to-pole ratio vs. time for each cell, using segmented_cell.mat and pos_cut7_pk.mat.
 
 
 
