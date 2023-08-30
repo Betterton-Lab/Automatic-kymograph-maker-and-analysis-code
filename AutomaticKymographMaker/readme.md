@@ -38,7 +38,7 @@ After the user deciding the good frames interval to make kymograph, this code wi
 
 ## Advanced (batch producing kymographs for all cells for a single mutant). 
 
-When all cells cut7 peak positions are known and saved as pos_cut7_pk.mat, the code can be running in batch mode. The data path to both pos_cut7_pk.mat and segmented_cell.mat need to be specified before running. In the code, they are called *data_path_pos* and *data_path_mov*. User can download existing pos_cut7_pk.mat and segmented_cell.mat from our original data file library to perform a test run. 
+When all cells cut7 peak positions are known and saved as pos_cut7_pk.mat, the code can be running in batch mode. The data path to both pos_cut7_pk.mat and segmented_cell.mat need to be specified before running. In the code, their path are assigned to *data_path_pos* and *data_path_mov*. User can download existing pos_cut7_pk.mat and segmented_cell.mat from our original data file library to perform a test run. 
 
 
 
