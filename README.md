@@ -1,5 +1,7 @@
 # Documentation for Automatic Kymograph Maker and Analysis
 
+Our codes run with MATLAB 2020 or later version. 
+
 Four softwares we wrote for our analysis are combined here, with their function briefly summarized below: 
 
 - Segmentation:  obtaining segmented_cell.mat from data.nd2  
