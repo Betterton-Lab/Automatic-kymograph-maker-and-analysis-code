@@ -26,7 +26,7 @@ C:\Research\Softwares\Kymographs Maker\BatchKymographMaker\Saved Data\cut7_FL\pk
 ```
 etc. 
 
-If you have download the kymograph folder from Peta??Library, you can run this code directly on all of our kymographs. 
+If you have download the kymograph folder from CU Library: https://doi.org/10.25810/fsdf-t849, you can run this code directly on all of our kymographs. 
 
 ## What does the code output? 
 
