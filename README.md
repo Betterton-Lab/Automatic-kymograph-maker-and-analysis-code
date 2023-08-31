@@ -19,7 +19,7 @@ Four softwares we wrote for our analysis are combined here, with their function 
 Please review README in each software's subdirectory. 
 
 
-## Where to obtain our dataset for test runs? 
+## Where to obtain our dataset for test run? 
 
 https://doi.org/10.25810/fsdf-t849
 
