@@ -4,7 +4,7 @@ This is the software for our kymographs creation. This code runs with MATLAB 202
 
 
 ## Required files: 
-To run this software, you first need to download individual segmented cells from Peta???Library. The segmented cells are in .mat format. As an example, 1149_100R_100G_25_deg_001_C.mat.  These are our individual cell data segmented out directly from the live microscopy image file (.nd2 file). 
+To run this software, you first need to download individual segmented cells from CU Library: https://doi.org/10.25810/fsdf-t849, under ``matlab analysis data``. The segmented cells are in .mat format. As an example, 1149_100R_100G_25_deg_001_C.mat.  These are our individual cell data segmented out directly from the live microscopy image file (.nd2 file). 
 
 
 ## How to do an initial test run?
